@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_action/__init__.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_action/__openerp__.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_audit/__openerp__.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_audit/models/__init__.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_audit/models/mgmtsystem_audit.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_audit/report/audit_report.py=utf-8
+encoding//odoo/addons/mgmtsystem_health_safety-8.0.1.0.0/mgmtsystem_audit/report/verification_list.py=utf-8
+encoding//odoo/addons/web/controllers/main.py=utf-8
+encoding//odoo/openerp/sql_db.py=utf-8
+encoding//odoo/setup.py=utf-8
